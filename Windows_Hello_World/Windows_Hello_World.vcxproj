@@ -139,12 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Calc.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="Pizza.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="Windows_Hello_World.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Calc.cpp" />
+    <ClCompile Include="Pizza.cpp" />
     <ClCompile Include="Windows_Hello_World.cpp" />
   </ItemGroup>
   <ItemGroup>
